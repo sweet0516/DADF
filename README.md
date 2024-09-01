@@ -3,7 +3,7 @@ Source code for "SecureSemantics: Dynamic Adversarial Defense Framework for Sema
 
 ## Environments
 > python: 3.8.19<br>
-> torch: 2.8.0+cu111<br>
+> torch: 2.8.0<br>
 
 ## Release Notice
 All the code will be released after acceptance.
